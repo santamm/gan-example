@@ -1,4 +1,4 @@
 # Build a Generative Adversarial Network (from scratch)
 
-![GAN]("gan.png")
+<img src="gan.png" style="background-color:white;" />
 
